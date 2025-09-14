@@ -5,16 +5,9 @@
 |key|value|
 |----|----|
 |名前|勝又 健太|
-|生息地|東京都 渋谷区|
-|オンラインサロン|[雑食系エンジニアサロン](https://zsksalon.com/) |
-|Twitter|[@poly_soft](https://twitter.com/poly_soft) (フォロワー34,000超)|
-|Qiita|[@poly_soft](https://qiita.com/poly_soft) (Contribution数27,000超)|
-|Youtube|[雑食系エンジニアTV](https://www.youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg) (チャンネル登録者数50,000超)<br>[KENTA兄さん](http://www.youtube.com/channel/UC2PpsPaCBhYTWCj40wVJRyw) (チャンネル登録者数4,000超)|
-|ポートフォリオ1|[kenta-aktsk](https://github.com/kenta-aktsk) (Elixirのコードが中心です)|
-|ポートフォリオ2|[codeout](https://github.com/polygloteng/codeout) (個人で開発したプログラミング学習サービスのリポジトリです。Nuxt.js、TypeScript、Firebaseを使用しています)|
-|小説|[鬼喰い](https://ncode.syosetu.com/n1075ct/)|
-|英語力|TOEIC820点|
-|bokete力|[星13,000超](https://bokete.jp/user/polysoft)|
+|現住所|大阪府|
+|資格|TOEIC820点|
+
 
 ## 概要
 
@@ -32,34 +25,21 @@
 
 ### 言語
 
-Rust | Kotlin | Scala | Java | Go | Elixir | Ruby | Python | PHP | Perl | JavaScript | TypeScript | VC++ | C# | VB.NET | Delphi | Objective-C | Action Script
-
-### フレームワーク等
-
-Iron | Vert.x | Finch | Cats | Shapeless | Scaldi | PlayFramework | Slick | ScalikeJDBC | Spec2 | Struts | Revel | Phoenix | Ruby on Rails | Flask | Django | Zend Framework | CodeIgniter | CakePHP | Ethna | Symfony | jQuery | Vue.js | Nuxt.js | MFC | .NET Framework
-
-### RDB/NoSQL
-
-MySQL | PostgreSQL | Greenplum | Oracle | SQL Server | Redis | Memcached | Tokyo Tyrant | Kyoto Tycoon
+YAML | Json | Shell Script |
 
 ### クラウド
 
 #### AWS
 
-VPC | S3 | CloudFront | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Beanstalk | EKS(Kubernetes) | Route53 | IAM | IAM Identity Center | Cognito | Elasticsearch Service | RDS(MySQL|PostgreSQL) | Aurora | Aurora Serverless V2 | DynamoDB | ElastiCache(Redis|Memcached) | Kinesis | Kinesis firehose | Kinesis Video Streams | SQS | SNS | SES | Redshift | EMR(Spark) | CloudFormation | CloudWatch | Athena | EventBridge | AWS Batch | Step Functions | SageMaker | Amazon Personalize | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | CloudHSM | KMS | Parameter Store | Client VPN | VPC Peering | VPC PrivateLink | AWS Organizations | AWS Control Tower
-
-
-#### GCP
-
-VPC | GCS | Cloud Functions | GCE | GKE(Kubernetes) | Cloud Run | GAE/SE(Standard Environment) | GAE/FE(Flexible Environment) | GCLB | IAP | IAM | Cloud SQL | Cloud Memorystore(Redis) | Cloud Pub/Sub | Cloud NAT | Cloud Armor | BigQuery | Dataflow(Apache Beam) | Composer(Airflow) | ML Engine | Datalab | Deployment Manager | Cloud Build | Cloud Source Repository | Stackdriver Logging | Stackdriver Monitoring | Firebase(Firestore)
+VPC | S3 | CloudFront | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Beanstalk | EKS(Kubernetes) | Route53 | IAM | IAM Identity Center | Cognito | Elasticsearch Service | RDS(MySQL|PostgreSQL) | Aurora | Aurora Serverless V2 | DynamoDB | ElastiCache(Redis|Memcached) | Kinesis | Kinesis firehose | SNS | SES | CloudFormation | CloudWatch | Athena | EventBridge | Step Functions | SageMaker | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | CloudHSM | KMS | Parameter Store | Client VPN | VPC Peering | VPC PrivateLink | AWS Organizations | AWS Control Tower
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions | BitBucket(Stash) | CircleCI | Wercker | Datadog | Sentry | NewRelic | TreasureData | DeployGate | TestFlight
+GitHub | GitHub Actions | Datadog | PagerDuty | PagerDuty Automation Actions | Cloudmonitor
 
 ### その他
 
-Terraform | Spinnaker | Envoy | Docker | Xen | Jenkins | Fluentd | Capistrano | Chef | nginx | unicorn | Apache | Tomcat | Gulp | Webpack | Pug | SASS | Mecab | Zabbix | munin | Elasticsearch | Kibana | Algoria | RabbitMQ | LDAP | LVS | BIND | DHCP | IIS | Active Directory | DirectShow | Sharepoint Server | Exchage Server
+Terraform | nginx | Apache
 
 ## バリューを発揮しやすい業務
 
