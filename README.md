@@ -4,7 +4,7 @@
 
 |key|value|
 |----|----|
-|名前|勝又 健太|
+|名前|高山 裕|
 |現住所|大阪府|
 |資格|TOEIC820点,SAA|
 
@@ -31,7 +31,8 @@ YAML | Json | Shell Script |
 
 #### AWS
 
-VPC | S3 | CloudFront | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Beanstalk | EKS(Kubernetes) | Route53 | IAM | IAM Identity Center | Cognito | Elasticsearch Service | RDS(MySQL|PostgreSQL) | Aurora | Aurora Serverless V2 | DynamoDB | ElastiCache(Redis|Memcached) | Kinesis | Kinesis firehose | SNS | SES | CloudFormation | CloudWatch | Athena | EventBridge | Step Functions | SageMaker | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | CloudHSM | KMS | Parameter Store | Client VPN | VPC Peering | VPC PrivateLink | AWS Organizations | AWS Control Tower
+VPC | Subnet | Routetable | NAT Gateway | S3 | CloudFront | ELB | EC2 | ECS on EC2 | Fargate | ECR | Auto Scaling Group | Launch Template | Security Group | VPC Endpoint | Route53 | Certificate manager | IAM | RDS(PostgreSQL) | Aurora | DynamoDB | AWS Backup |
+ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | Opensearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS Firewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering |
 
 ### SaaS/PaaS
 
