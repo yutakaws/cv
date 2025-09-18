@@ -107,9 +107,9 @@ Terraform | nginx | Apache
 【プロジェクト概要】鉄道Webシステムの監視システム自動化PoC検証案件に参画。Datadog,PagerDutyを利用した監視システムの自動化の検証。サブリーダーを担当。具体的には下記。
 
 - PagerDutyによる監視アラートのインシデント処理自動化検証。
-- 外形監視としてAPIによるリクエストやブラウザテストをDatadogにて構築。
+- 外形監視としてAPIテストやブラウザテストをDatadogにて構築。
 - PagerDuty RunbookAutomation検証。
-- RunbookAutiomation上にShellScriptでジョブを実装。
+- RunbookAutiomationで利用するジョブをShellScriptで実装。
 - AWSでの検証環境構築。
 - テスト仕様書、報告書作成。
 - 構築手順書作成。
