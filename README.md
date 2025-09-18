@@ -27,8 +27,8 @@ YAML | Json | Shell Script |
 
 #### AWS
 
-VPC | Subnet | Routetable | NAT Gateway | S3 | CloudFront | ELB | EC2 | ECS on EC2 | Fargate | ECR | Auto Scaling Group | Launch Template | Security Group | VPC Endpoint | Route53 | Certificate manager | IAM | RDS(PostgreSQL) | Aurora | DynamoDB | AWS Backup |
-ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | Opensearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS Firewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering |
+VPC | Subnet | Routetable | NAT Gateway | S3 | CloudFront | ELB | EC2 | ECS on EC2 | Fargate | ECR | Auto Scaling Group | Launch Template | Security Group | VPC Endpoint | Route53 | Certificate manager | IAM | RDS(PostgreSQL) | Aurora | DynamoDB | AWS Backup | 
+ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | Opensearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS NetworkFirewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering |
 
 ### SaaS/PaaS
 
