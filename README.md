@@ -85,7 +85,7 @@ Terraform | nginx | Apache
 
 【プロジェクト概要】AIを利用した自動車保険システム新規実装案件に参画。AI関連リソース利用した構成の耐障害設計、負荷分散、ログ・メトリクス監視、ログ管理の基本設計、詳細設計、構築。IAM詳細設計、構築。バックアップ/リストアの運用設計。サブリーダーを担当。具体的には下記。
 
-- ECSonEC2、Opensearch、VPC Endpoint耐障害 基本設計、詳細設計、構築、テスト仕様書作成。
+- ECSonEC2,Opensearch,VPC Endpoint耐障害 基本設計、詳細設計、構築、テスト仕様書作成。
 - ALB負荷分散 基本設計、詳細設計、構築、テスト仕様書作成。
 - Cloudwatch Alarm,Cloudwatch Logs,SNSを利用したログ、メトリクス監視 基本設計、詳細設計、構築、テスト仕様書作成。
 - Cloudwatch Logs,Kinesis Data firehose,S3を利用したログ管理 基本設計、詳細設計、構築、テスト仕様書作成。
