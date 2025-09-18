@@ -126,8 +126,8 @@ Terraform | nginx | Apache
 
 【プロジェクト概要】自動車保険システムのセキュリティ通信PoC検証案件に参画。マルチVPC構成のAWS Firewallを利用した通信検証。サブリーダーを担当。具体的には下記。
 
-- AWS Firewallを利用した通信速度検証。
-- AWSでの検証環境構築(マルチVPC)。
+- AWS NetworkFirewallを利用した通信速度検証。
+- AWSでの検証環境構築(TransitGatewayを利用したマルチVPC)。
 - テスト仕様書作成。
 - 構築手順書作成。
 
