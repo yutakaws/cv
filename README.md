@@ -62,7 +62,8 @@ Terraform | nginx | Apache | Redmine | ClusterPro |
 - 監視、ログ管理領域の要件定義。
 - POC検証環境構築
 - TransitGatewayを使ったマルチVPCでのネットワーク,Datadog/Cloudwatch監視PoC検証。
-- Datadogメトリクス/外形監視の基本設計、詳細設計、テスト仕様書作成。
+- Datadog外形監視の基本設計、詳細設計、テスト仕様書作成。
+- Datadogメトリクス監視の詳細設計、テスト仕様書作成。
 - ネットワークの基本設計、詳細設計、テスト仕様書作成。
 - AWSリソース全体のCloudFormationによるIaC化の基本設計、詳細設計。
 - CloudFormationのコードレビュー。
