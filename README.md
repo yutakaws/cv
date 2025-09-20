@@ -33,11 +33,11 @@ ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | Cl
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions | Datadog | PagerDuty | PagerDuty Automation Actions | Cloudmonitor | Jobcenter | ClusterPro |
+GitHub | Datadog | PagerDuty | PagerDuty Automation Actions | Cloudmonitor | Jobcenter |
 
 ### その他
 
-Terraform | nginx | Apache | Redmine |
+Terraform | nginx | Apache | Redmine | ClusterPro |
 
 ## バリューを発揮しやすい業務
 
@@ -60,7 +60,8 @@ Terraform | nginx | Apache | Redmine |
 【プロジェクト概要】鉄道Webシステムのクラウドシフト案件に参画。マルチVPC構成のネットワーク設計、構築。監視ログ管理の要件定義、設計、構築。4名からなる詳細設計・構築チームのリーダーを担当。具体的には下記。
 
 - 監視、ログ管理領域の要件定義。
-- POC検証環境構築、TransitGatewayを使ったマルチVPCでのネットワーク,Datadog/Cloudwatch監視検証。
+- POC検証環境構築
+- TransitGatewayを使ったマルチVPCでのネットワーク,Datadog/Cloudwatch監視PoC検証。
 - Datadogメトリクス/外形監視の基本設計、詳細設計、テスト仕様書作成。
 - ネットワークの基本設計、詳細設計、テスト仕様書作成。
 - AWSリソース全体のCloudFormationによるIaC化の基本設計、詳細設計。
@@ -71,7 +72,7 @@ Terraform | nginx | Apache | Redmine |
 - クライアントへの監視設計、ドメイン/証明書設定ヒアリング。
 - Transit GatewayによるマルチVPC構成の構築。
 
-【発揮したバリュー】リーダーとして詳細設計・構築チームを率いました。新人メンバーが作業で迷う場面では、手順書の整理や個別フォローを行いながら、効率的に作業が進む体制を構築。加えて、クラウド環境の設計や監視の仕様が不明瞭な箇所については、クライアントとのレビューやチーム内での議論を重ね、設計方針を明確化しました。その結果、チーム全員が自信を持って作業に取り組める環境を整え、本番構築では目立ったエラーもなく計画通りにリリースを達成することができました。
+【発揮したバリュー】リーダーとして詳細設計・構築チームを率いました。新人メンバーが作業で迷う場面では、手順書の整理や個別フォローを行いながら、効率的に作業が進む体制を構築。加えて、クラウド環境の設計や監視の仕様が不明瞭な箇所については、クライアントとのレビューやチーム内での議論を重ね、設計方針を明確化しました。その結果、チーム全員が自信を持って作業に取り組める環境を整え、スムーズにプロジェクトを遂行することができました。
 
 ### 自動車保険システムの基盤設計と構築【AWS】(2025年2月〜現在)
 
