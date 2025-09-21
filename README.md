@@ -1,26 +1,34 @@
 # スキルシート　　名前:高山　裕
 
 ## 概要
+どういうスキルを持ってるかを書くが自分が就きたい仕事、想定されるものを書く。やりたくないものは書かないか薄く書く
+他の人よりもほんのちょっと苦労したことや努力したことを書く。
 
 AWSを中心としたクラウド基盤の設計・構築を経験し、監視やネットワークといった幅広い領域に取り組んできました。
 新しいサービスや未経験の技術にも積極的に挑戦し、調査・検証を通じて実務に活かすことを得意としています。
 DatadogやPagerDutyを活用したSRE的な仕組みづくりや、自動化のPoC検証などにも携わり、技術的なチャレンジを成果に結びつけてきました。
 個人のスキルアップだけでなく、チームに知見を還元することを大切にしており、今後も新しい技術を取り込みながらプロジェクト全体の成長に貢献していきたいと考えています。
 
+
+- AWSを中心としたクラウド基盤の設計・構築を経験し、監視やネットワークといった幅広い領域に取り組んできました。
+
+- AWSのAIリソースやコンテナ(ECS)を利用したWebアプリのインフラ面をTerraformによってIaC化を行い、効率的な構築を実現しました。
+
+- DatadogやPagerDutyを活用したSRE的な仕組みづくりや、自動化のPoC検証などにも携わり、技術的なチャレンジを成果に結びつけてきました。
+
 ## スキル
 
 #### AWS
 
-VPC | Subnet | Routetable | NAT Gateway | S3 | CloudFront | ELB | EC2 | ECS on EC2 | Fargate | ECR | Auto Scaling Group | Launch Template | Security Group | VPC Endpoint | Route53 | Certificate manager | IAM | RDS(PostgreSQL) | Aurora | DynamoDB | AWS Backup | 
-ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | Opensearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS NetworkFirewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering
+VPC | S3 | CloudFront | ELB | EC2 | ECS on EC2 | Fargate | ECR | Auto Scaling Group | Launch Template | Security Group | Route 53 | Certificate Manager | IAM | RDS (PostgreSQL) | Aurora | DynamoDB | AWS Backup | Amazon ElastiCache (Valkey|Redis|Memcached) | Kinesis Data Firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | OpenSearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS Network Firewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering
 
 ### SaaS/PaaS
 
-GitHub | Datadog | PagerDuty | PagerDuty Automation Actions | Cloudmonitor | Jobcenter
+ Datadog | PagerDuty | PagerDuty Automation Actions | GitHub
 
 ### その他
 
-Terraform | nginx | Apache | Redmine | ClusterPro
+Terraform | nginx | Apache | Redmine | Shell Script
 
 ### 資格
 
@@ -36,13 +44,6 @@ SAA | CCNA | TOEIC820点
 ## 主な業務経歴
 
 ### 鉄道Webシステムの基盤設計と構築【AWS/Datadog】(2025年3月〜現在)
-
-担当工程
-- 要件定義
-- 基本設計
-- 詳細設計
-- 構築・設定
-- 試験
 
 【プロジェクト概要】鉄道Webシステムのクラウドシフト案件に参画。マルチVPC構成のネットワーク設計、構築。監視ログ管理の要件定義、設計、構築。4名からなる詳細設計・構築チームのリーダーを担当。具体的には下記。
 
@@ -64,14 +65,7 @@ SAA | CCNA | TOEIC820点
 
 ### 自動車保険システムの基盤設計と構築【AWS】(2025年2月〜現在)
 
-担当工程
-- 基本設計
-- 詳細設計
-- 運用設計
-- 構築・設定
-- 試験
-
-【プロジェクト概要】AIを利用した自動車保険システム新規実装案件に参画。AI関連リソース利用した構成の耐障害設計、負荷分散、ログ・メトリクス監視、ログ管理の基本設計、詳細設計、構築。IAM詳細設計、構築。バックアップ/リストアの運用設計。サブリーダーを担当。具体的には下記。
+【プロジェクト概要】AIを利用した自動車保険Webシステム新規実装案件に参画。AI関連リソース利用した構成の耐障害設計、負荷分散、ログ・メトリクス監視、ログ管理の基本設計、詳細設計、構築。IAM詳細設計、構築。バックアップ/リストアの運用設計。サブリーダーを担当。具体的には下記。
 
 - ECSonEC2,Opensearch,VPC Endpoint耐障害 基本設計、詳細設計、構築、テスト仕様書作成。
 - ALB負荷分散 基本設計、詳細設計、構築、テスト仕様書作成。
@@ -89,10 +83,6 @@ SAA | CCNA | TOEIC820点
 
 ### 鉄道Webシステムの監視システム自動化PoC検証支援【AWS/Datadog/PagerDuty】(2024年7月〜2025年2月)
 
-担当工程
-- 構築・設定
-- 試験
-
 【プロジェクト概要】鉄道Webシステムの監視システム自動化PoC検証案件に参画。Datadog,PagerDutyを利用した監視システムの自動化の検証。サブリーダーを担当。具体的には下記。
 
 - PagerDutyによる監視アラートのインシデント処理自動化検証。
@@ -108,10 +98,6 @@ SAA | CCNA | TOEIC820点
 
 ### 自動車保険システムのセキュリティ通信PoC検証支援【AWS】(2024年4月〜2025年7月)
 
-担当工程
-- 構築・設定
-- 試験
-
 【プロジェクト概要】自動車保険システムのセキュリティ通信PoC検証案件に参画。マルチVPC構成のAWS Firewallを利用した通信検証。サブリーダーを担当。具体的には下記。
 
 - AWS NetworkFirewallを利用した通信速度検証。
@@ -122,12 +108,6 @@ SAA | CCNA | TOEIC820点
 【発揮したバリュー】専門知見があるメンバーが不足していた中、AWS Firewallによるセキュリティ通信のPoC検証を主導。検証成果を基にテスト仕様書や手順書を整備し、さらにナレッジを社内勉強会で展開することで、プロジェクトだけでなく組織全体に還元しました。
 
 ### 金融生命保険システム基盤のクラウドシフト【AWS】(2023年10月〜2024年12月)
-
-担当工程
-- 基本設計
-- 詳細設計
-- 構築・設定
-- 試験
 
 【プロジェクト概要】金融生命保険システム基盤のクラウドシフト案件に参画。BCP対策用CloudFormation基本設計。Fargate,RDS Auroraのメトリクス監視基本設計。EC2クラスター化、ホットバックアップ回避機能の詳細設計。メンバーを担当。具体的には下記。
 
@@ -143,10 +123,7 @@ SAA | CCNA | TOEIC820点
 
 【発揮したバリュー】ホットバックアップ回避機能の構築において、AWSの仕様により問題が発生しましたが、即座にリカバリに成功し、スケジュール通りリリースができました。またその対応力がクライアントでの結合テストにて発生したエラー対応においても活かされました。
 
-### Webシステム構築検証【AWS】(2022年10月〜2024年3月) *ルビコン塾（消すか迷い中)
-
-担当工程
-- 構築・設定
+### Webシステム構築検証【AWS】(2022年10月〜2024年3月) 
 
 【プロジェクト概要】Webシステム構築検証。Webアプリ用のインフラをAWS場にて構築。具体的には下記。
 
@@ -157,32 +134,4 @@ SAA | CCNA | TOEIC820点
 - CloudformationによるIaC化
 
 【発揮したバリュー】AWSを用いたWebシステム基盤を単独で設計・構築。CloudFormationによるIaC化で効率性を高め、コスト最適化やリソース調査も含めた包括的なインフラ運用構築スキルを習得しました。
-<br>
-<br>
-<br>
----下記以降はエンジニア職以外の経歴となるため簡略して記載---
-
-### ネットサポート・ソフトウェア品質検証【Redmine】(2022年8月〜2023年9月)
-
-【概要】海外のメールカスタマーサポート。
-
-### 情報処理サービス事業【Windows】(2020年6月〜2021年12月)
-
-【概要】電子医療カルテのWindowsサーバー運用保守。
-
-### フィリピンでの日本人向けの英語教育 (2017年2月〜2020年2月)
-
-【概要】英語学校の経営及び運営。
-
-### 情報処理サービス事業【Windows】(2015年11月〜2016年12月)
-
-【概要】電子医療カルテのWindowsサーバー運用保守。
-
-### ネットワークエンジニア講座/英語留学 (2014年9月〜2015年9月)
-
-【概要】ネットワークエンジニアの基礎学習、フィリピンへの英語留学。
-
-### 輸入雑貨販売 (2010年3月〜2014年7月)
-
-【概要】輸入雑貨の販売、店舗管理。
 
