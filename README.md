@@ -1,13 +1,4 @@
-# スキルシート
-
-## 基本情報
-
-|Key|Value|
-|----|----|
-|名前|高山 裕|
-|現住所|大阪府|
-|資格|TOEIC820点,SAA,CCNA|
-|社内インタビュー|https://www.wantedly.com/companies/willpride/post_articles/962369|
+# スキルシート　　名前:高山　裕
 
 ## 概要
 
@@ -18,26 +9,22 @@ DatadogやPagerDutyを活用したSRE的な仕組みづくりや、自動化のP
 
 ## スキル
 
-- 基本的にすべて実業務で使用した技術だけを列挙しています。
-
-### 言語
-
-YAML | Json | Shell Script |
-
-### クラウド
-
 #### AWS
 
 VPC | Subnet | Routetable | NAT Gateway | S3 | CloudFront | ELB | EC2 | ECS on EC2 | Fargate | ECR | Auto Scaling Group | Launch Template | Security Group | VPC Endpoint | Route53 | Certificate manager | IAM | RDS(PostgreSQL) | Aurora | DynamoDB | AWS Backup | 
-ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | Opensearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS NetworkFirewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering |
+ElastiCache(Redis|Memcached) | Kinesis data firehose | SNS | CloudFormation | CloudWatch Alarm | CloudWatch Logs | EventBridge | Step Functions | SageMaker | Opensearch | Bedrock | CloudTrail | AWS Config | GuardDuty | Amazon Inspector | Security Hub | AWS NetworkFirewall | CloudShell | KMS | Session Manager | Secrets Manager | Parameter Store | Transit Gateway | VPC Peering
 
 ### SaaS/PaaS
 
-GitHub | Datadog | PagerDuty | PagerDuty Automation Actions | Cloudmonitor | Jobcenter |
+GitHub | Datadog | PagerDuty | PagerDuty Automation Actions | Cloudmonitor | Jobcenter
 
 ### その他
 
-Terraform | nginx | Apache | Redmine | ClusterPro |
+Terraform | nginx | Apache | Redmine | ClusterPro
+
+### 資格
+
+SAA | CCNA | TOEIC820点
 
 ## バリューを発揮しやすい業務
 
